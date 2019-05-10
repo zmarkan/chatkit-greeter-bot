@@ -1,0 +1,33 @@
+{
+    "payload": {
+        "room": {
+            "id": "26334188",
+            "name": "Mushroom",
+            "private": false,
+            "created_by_id": "alice",
+            "created_at": "2019-01-23T11:26:45Z",
+            "updated_at": "2019-01-23T11:26:45Z",
+            "custom_data": {
+                "foo": 42
+            }
+        },
+        "users": [
+            {
+                "id": "bob",
+                "name": "Bob",
+                "created_at": "2019-01-23T11:26:32Z",
+                "updated_at": "2019-01-23T11:26:32Z"
+            }
+        ]
+    },
+    "metadata": {
+        "created_at": "2019-01-23T11:26:28Z",
+        "event_type": "v1.users_added_to_room",
+        "event_id": "94a912a4-ecfc-462e-9ef5-21bc88ff9170",
+        "product": "chatkit"
+    },
+    "custom_data": {
+        "foo": 42,
+        "bar": "baz"
+    }
+}
