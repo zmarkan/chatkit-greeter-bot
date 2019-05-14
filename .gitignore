@@ -1,2 +1,5 @@
 node_modules
 .arc-env
+awscli-bundle
+awscli-bundle.zip
+scripts
